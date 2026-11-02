@@ -19,6 +19,8 @@ Each report breaks down:
 * **High-Frequency Technical Interview Q&A & Cheat Sheets**
 * **Direct Outreach / Recruiter Cold Pitch Templates**
 
+> 🚀 **Executive Action Playbook:** See **[interview_and_application_action_playbook.md](interview_and_application_action_playbook.md)** for tailored ATS resumes, word-for-word scenario interview answers (AI guardrails, Workload Identity, HIPAA, RHCSA Linux triage), and LinkedIn cold outreach scripts.
+
 ---
 
 ## 📂 Analysis Index & Directory
