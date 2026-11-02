@@ -65,5 +65,5 @@ AI-Native DevOps   : Google Antigravity | Claude Code | Cursor | Amazon Bedrock 
 ## 📬 Contact & Professional Profiles
 
 * **GitHub:** [@Nova-Jaat](https://github.com/Nova-Jaat)  
-* **Email:** Sanjeevkumar69806@gmail.com  
+* **Email:** [nova01111111@gmail.com](mailto:nova01111111@gmail.com)  
 * **Availability:** Immediate (0 Days Notice Period)
