@@ -29,6 +29,7 @@ Each report breaks down:
 
 | Analysis Report | Focus & Scope | Top Matched Targets | Key Highlights |
 |:---|:---|:---|:---|
+| 📄 **[Batch #5: AI Data SME & Research](batch_5_remote_jd_analysis.md)** | AI Training Data & Paid Cloud Research | **SME Careers / SuperAnnotate** (AWS SME), **Thought Through** (GCP Prototype Tester) | Designing AWS workflows for AI foundation models, ₹40k paid user research. |
 | 📄 **[Batch #4: 23 Remote Roles](batch_4_remote_jd_analysis.md)** | 100% Remote & Agentic DevOps Positions | **FullStack** (Agentic DevOps), **Zenara Health** (Platform Eng), **Jobgether** (DevOps Automation — ₹20L–₹30 LPA), **Rackspace** (L1 Azure) | AI-Native tooling (Antigravity & Claude Code), HIPAA cloud security, RHCSA Linux moat. |
 | 📄 **[Batch #3: 9 Roles](batch_3_jd_analysis.md)** | Multi-Cloud & Enterprise Infrastructure | **FPLE Technology** (AWS + Linux), **Agency Boutique** (SysAdmin + IaC), **NTT DATA** (AWS GenAI) | Synergies with `aws-genai-app` (Bedrock, EKS, Helm, RAG), junior-friendly requisitions. |
 | 📄 **[Batch #2: 8 Roles](batch_2_jd_analysis.md)** | High-Yield Industry Postings | **msg global solutions**, **Saaki Argus & Averil**, **CrowdStrike** (SRE II Growth) | Linux administration benchmarks, early-career platform engineering ramp. |
