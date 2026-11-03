@@ -29,6 +29,7 @@ Each report breaks down:
 
 | Analysis Report | Focus & Scope | Top Matched Targets | Key Highlights |
 |:---|:---|:---|:---|
+| 📄 **[Batch #6: AWS, GCP & SRE Roles](batch_6_devops_jd_analysis.md)** | AWS Cloud, Remote GCP & Production SRE | **HJ Infotech** (AWS DevOps — 92%), **Auriga IT** (DevOps / SRE — 82%), **Remote Partner** (GCP — 68%) | Pure Terraform IaC, RHCSA Linux internals moat, SLIs/SLOs & blameless postmortems, GitHub Actions. |
 | 📄 **[Batch #5: AI Data SME & Research](batch_5_remote_jd_analysis.md)** | AI Training Data & Paid Cloud Research | **SME Careers / SuperAnnotate** (AWS SME), **Thought Through** (GCP Prototype Tester) | Designing AWS workflows for AI foundation models, ₹40k paid user research. |
 | 📄 **[Batch #4: 23 Remote Roles](batch_4_remote_jd_analysis.md)** | 100% Remote & Agentic DevOps Positions | **FullStack** (Agentic DevOps), **Zenara Health** (Platform Eng), **Jobgether** (DevOps Automation — ₹20L–₹30 LPA), **Rackspace** (L1 Azure) | AI-Native tooling (Antigravity & Claude Code), HIPAA cloud security, RHCSA Linux moat. |
 | 📄 **[Batch #3: 9 Roles](batch_3_jd_analysis.md)** | Multi-Cloud & Enterprise Infrastructure | **FPLE Technology** (AWS + Linux), **Agency Boutique** (SysAdmin + IaC), **NTT DATA** (AWS GenAI) | Synergies with `aws-genai-app` (Bedrock, EKS, Helm, RAG), junior-friendly requisitions. |
